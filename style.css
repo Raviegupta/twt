@@ -205,12 +205,13 @@ svg{
     border: none;
     background-color: var(--blue);
     color: white;
-    width: 200px;
-    padding: 20px 40px;
-    margin-top: 15px;
-    border-radius: 50px;
+    width: 170px;
+    padding: 12px 10px;
+    margin-top: 10px;
+    border-radius: 70px;
     font-size: 20px;
     cursor: pointer;
+    font-size: 24px;
 }
 
 #user{
@@ -327,7 +328,7 @@ svg{
 .profile-box {
 
     display: flex;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     padding: 1rem;
     padding-left:0;
   }
@@ -340,8 +341,8 @@ svg{
   
   .profile-box img {
 
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     margin: auto;
     border-radius: 100%;
 
@@ -349,7 +350,8 @@ svg{
   
   .profile-box .full-name {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
+    color: blueviolet;
   }
   
   .profile-box .options-icon .fa-option {
